@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-<h1> Holaaa</h1>
+<h1 style="background: red; color: green;"> Holaaa</h1>
 
 <!--
 **LeanderGS/LeanderGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
