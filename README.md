@@ -1,12 +1,4 @@
-### Hi there 👋
-
-<style>
-  h1{
-    background-color: red;
-  }  
-</style>
-
-<h1> Holaaa</h1>
+<h1>My name is Leandro Gavidia, but I like to make myself known as Leander GS 😶</h1>
 
 <!--
 **LeanderGS/LeanderGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
