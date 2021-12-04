@@ -1,12 +1,19 @@
 # <img width="80" src="https://media.giphy.com/media/wIUQQ07BHzDry/giphy.gif"></img> About me 
 ## My name is Leandro Gavidia, but I like to make myself known as Leander GS 😶
 
-<img src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif" width="100%" height="400"></img>
+---
+
+### I tell you... 😳
+
+##### · 🤗 I'm not married to any language ... Although I like to hang out more with Solidity more 
+##### · 😁 I have certifications in decentralized technologies and official blockchain from Platzi 💚 (Currently certifying me at the new level).
+##### · 🤓 I love being constantly learning, innovating those projects I have and always being attentive to new trends.
+
+<br>
+
+## <img src="https://media.giphy.com/media/1qeMVoOlGWcL0CIYw3/giphy.gif" width="100"></img> ........ I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter%20-%20Leander_GS&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLeander_GS)](https://twitter.com/Leander_GS)
-
-I am a <strong>web3 lover</strong>, I create web3 projects, ocassionaly with others technologies as .
-
 <!--
 **LeanderGS/LeanderGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
