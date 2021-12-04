@@ -1,7 +1,7 @@
-# <img width="70" src="https://media.giphy.com/media/1qeMVoOlGWcL0CIYw3/giphy.gif"></img> - About me
+# <img width="80" src="https://media.giphy.com/media/wIUQQ07BHzDry/giphy.gif"></img> About me 
 ## My name is Leandro Gavidia, but I like to make myself known as Leander GS 😶
 
-
+<img src="https://media.giphy.com/media/bTrTnPMPq8UORCrBWG/giphy.gif" width="100%" height="400"></img>
 
 [![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter%20-%20Leander_GS&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLeander_GS)](https://twitter.com/Leander_GS)
 
