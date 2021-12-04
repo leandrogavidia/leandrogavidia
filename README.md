@@ -3,6 +3,8 @@
 
 ---
 
+<img src="!https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></img>
+
 ### I tell you... 😳
 
 ##### · 🤗 I'm not married to any language ... Although I like to hang out more with Solidity more 
@@ -13,7 +15,8 @@
 
 ## <img src="https://media.giphy.com/media/1qeMVoOlGWcL0CIYw3/giphy.gif" width="100"></img> ........ I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
 
-[![Twitter URL](https://img.shields.io/twitter/url?color=%231DA1F2&label=Twitter%20-%20Leander_GS&logo=Twitter&style=for-the-badge&url=https%3A%2F%2Ftwitter.com%2FLeander_GS)](https://twitter.com/Leander_GS)
+[<img src="https://media.giphy.com/media/wVeZOVqFocgdIy7tTv/giphy.gif" width="50"></img>](https://www.facebook.com/LeanderGS/) [<img src="https://media.giphy.com/media/dagnmwFsNlltKvFNwP/giphy.gif" width="70"></img>](https://www.instagram.com/leander_gs/) [<img src="https://media.giphy.com/media/P6avjcIyyi4iWZxNMa/giphy.gif" width="40"></img>](https://twitter.com/Leander_GS)
+
 <!--
 **LeanderGS/LeanderGS** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
