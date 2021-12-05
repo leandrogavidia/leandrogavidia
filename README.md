@@ -1,4 +1,4 @@
-# <img width="80" src="https://media.giphy.com/media/wIUQQ07BHzDry/giphy.gif"></img> About me 
+# <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
 ## My name is Leandro Gavidia, but I like to make myself known as Leander GS 😶
 
 ---
