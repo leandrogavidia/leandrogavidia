@@ -1,6 +1,6 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
 ## My name is Leandro Gavidia, but I am also known Leander GS 😶
-### Front-end web developer / Web3 developer in process
+### Front-end web developer | Web3 developer in process
 <code>"With great code comes great responsibility"</code>
 
 ---
@@ -32,7 +32,7 @@
 
 ##### · [¿Qué es un minero de Bitcoin y cuál es su importancia?](https://platzi.com/blog/que-es-minero-bitcoin/)
 ##### · [¿Qué son las llaves de encriptación de una crypto wallet?](https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/)
-##### · [¿Qué significa el termino “cripto”?](https://platzi.com/blog/que-es-minero-bitcoin/)
+##### · [¿Qué significa el termino “cripto”?](https://platzi.com/blog/que-es-cripto-definicion/)
 
 ---
 
