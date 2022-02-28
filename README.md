@@ -1,7 +1,7 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
 ## My name is Leandro Gavidia, but I am also known Leander GS 😶
-### Front-end web developer / Web3 developer in process \ <code>"With great code comes great responsibility"</code>
-
+### Front-end web developer / Web3 developer in process
+<code>"With great code comes great responsibility"</code>
 
 ---
 
@@ -14,35 +14,31 @@
 
 ### // Best projects 💻. 
 
-##### · <a href="https://github.com/LeanderGS/Website-your_weight_in_other_planet" target="blank">Your weight in other planet</a>
-##### · <a href="https://github.com/LeanderGS/SpiderOss_NFT_ERC721" target="blank">SpiderOss NFT ERC721</a>
+##### · [Your weight in other planet](https://github.com/LeanderGS/Website-your_weight_in_other_planet)
+##### · [SpiderOss NFT ERC721](https://github.com/LeanderGS/SpiderOss_NFT_ERC721)
 
-##### · I have a secret --> <a href="https://twitter.com/Leander_GS/status/1466605466620989442" target="blank">My last project in process</a>
+##### · I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
 
 ---
 
 ### // Tutorials 🤓.
 
-##### · <a href="https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing" target="blank">How to create your NFT with OpenSea</a>
-##### · <a href="https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing" target="blank">How to program your NFT with Solidity</a>
+##### · [How to create your NFT with OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
+##### · [How to program your NFT with Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
 
 ---
 
 ### // Some articles published ⌨.
 
-##### · <a href="https://platzi.com/blog/que-es-minero-bitcoin/" target="blank">¿Qué es un minero de Bitcoin y cuál es su importancia?</a>
-##### · <a href="https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/" target="blank">¿Qué son las llaves de encriptación de una crypto wallet?</a>
-##### · <a href="https://platzi.com/blog/que-es-minero-bitcoin/" target="blank">¿Qué significa el termino “cripto”?</a>
+##### · [¿Qué es un minero de Bitcoin y cuál es su importancia?](https://platzi.com/blog/que-es-minero-bitcoin/)
+##### · [¿Qué son las llaves de encriptación de una crypto wallet?](https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/)
+##### · [¿Qué significa el termino “cripto”?](https://platzi.com/blog/que-es-minero-bitcoin/)
 
 ---
 
 ### // LET'S CONNECT!
 
-<a href="https://www.facebook.com/LeanderGS/" target="blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img></a>
-&nbsp; &nbsp;
-<a href="https://www.instagram.com/leander_gs/" target="blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img></a>
-&nbsp; &nbsp;
-<a href="https://twitter.com/Leander_GS" target="blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></img></a>
-&nbsp; &nbsp;
-<a href="https://www.linkedin.com/in/leandro-gavidia/" target="blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img></a>
-&nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>](https://www.facebook.com/LeanderGS/) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img>](https://www.instagram.com/leander_gs/) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></img>](https://twitter.com/Leander_GS) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img>](https://www.linkedin.com/in/leandro-gavidia/) &nbsp; &nbsp;
