@@ -1,18 +1,48 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
-## My name is Leandro Gavidia, but I like to make myself known as Leander GS 😶
+## My name is Leandro Gavidia, but I am also known Leander GS 😶
+### Front-end web developer / Web3 developer in process \ <code>"With great code comes great responsibility"</code>
+
 
 ---
 
-<img src="!https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></img>
+##### ❤️ JavaScript and Solidity lover.
+##### 💜 Web design with Figma.
+##### 💛 Blockchain, cryptocurrency and web3 content creator.
+##### 💚 I am a Platzi student.
 
-### I tell you... 😳
+---
 
-##### · 🤗 I'm not married to any language ... Although I like to hang out more with Solidity more 
-##### · 😁 I have certifications in decentralized technologies and official blockchain from Platzi 💚 (Currently certifying me at the new level).
-##### · 🤓 I love being constantly learning, innovating those projects I have and always being attentive to new trends.
+### // Best projects 💻. 
 
-<br>
+##### · <a href="https://github.com/LeanderGS/Website-your_weight_in_other_planet" target="_blank">Your weight in other planet</a>
+##### · <a href="https://github.com/LeanderGS/SpiderOss_NFT_ERC721" target="_blank">SpiderOss NFT ERC721</a>
 
-## <img src="https://media.giphy.com/media/1qeMVoOlGWcL0CIYw3/giphy.gif" width="100"></img> ........ I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
+##### · I have a secret --> <a href="https://twitter.com/Leander_GS/status/1466605466620989442" target="_blank">My last project in process</a>
 
-[<img src="https://media.giphy.com/media/wVeZOVqFocgdIy7tTv/giphy.gif" width="50"></img>](https://www.facebook.com/LeanderGS/) [<img src="https://media.giphy.com/media/dagnmwFsNlltKvFNwP/giphy.gif" width="70"></img>](https://www.instagram.com/leander_gs/) [<img src="https://media.giphy.com/media/P6avjcIyyi4iWZxNMa/giphy.gif" width="40"></img>](https://twitter.com/Leander_GS)
+---
+
+### // Tutorials 🤓.
+
+##### · <a href="https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing" target="_blank">How to create your NFT with OpenSea</a>
+##### · <a href="https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing" target="_blank">How to program your NFT with Solidity</a>
+
+---
+
+### // Some articles published ⌨.
+
+##### · <a href="https://platzi.com/blog/que-es-minero-bitcoin/" target="_blank">¿Qué es un minero de Bitcoin y cuál es su importancia?</a>
+##### · <a href="https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/" target="_blank">¿Qué son las llaves de encriptación de una crypto wallet?</a>
+##### · <a href="https://platzi.com/blog/que-es-minero-bitcoin/" target="_blank">¿Qué significa el termino “cripto”?</a>
+
+---
+
+### // LET'S CONNECT!
+
+<a href="https://www.facebook.com/LeanderGS/" target="_blank"><img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img></a>
+&nbsp; &nbsp;
+<a href="https://www.instagram.com/leander_gs/" target="_blank"><img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img></a>
+&nbsp; &nbsp;
+<a href="https://twitter.com/Leander_GS" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></img></a>
+&nbsp; &nbsp;
+<a href="https://www.linkedin.com/in/leandro-gavidia/" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img></a>
+&nbsp; &nbsp;
