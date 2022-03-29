@@ -8,7 +8,6 @@
 ##### ❤️ JavaScript and Solidity lover.
 ##### 💜 Web design with Figma.
 ##### 💛 Blockchain, cryptocurrency and web3 content creator.
-##### 💚 I am a Platzi student.
 
 ---
 
