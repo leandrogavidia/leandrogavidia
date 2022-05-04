@@ -13,7 +13,8 @@
 
 ### // Best projects 💻. 
 
-##### · [Your weight in other planet](https://github.com/LeanderGS/Website-your_weight_in_other_planet)
+##### · [React expense control App](https://leandergs.github.io/React-expense-control-app/)
+##### · [Your weight in other planet](https://leandergs.github.io/Website-your_weight_in_other_planet/)
 ##### · [SpiderOss NFT ERC721](https://github.com/LeanderGS/SpiderOss_NFT_ERC721)
 
 ##### · I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
