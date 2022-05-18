@@ -23,8 +23,8 @@
 
 ### // Tutorials 🤓.
 
-##### · [How to create your NFT with OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
-##### · [How to program your NFT with Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
+##### · [Como crear tu NFT con OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
+##### · [Como programar tu NFT con Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
 
 ---
 
