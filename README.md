@@ -1,5 +1,4 @@
 # <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
-## My name is Leandro Gavidia, but I am also known Leander GS 😶
 ### Front-end web developer | Web3 developer in process
 <code>"With great code comes great responsibility"</code>
 
@@ -13,11 +12,11 @@
 
 ### // Best projects 💻. 
 
-##### · [DecoderMors.](https://leandergs.github.io/decoder-mors/)
-##### · [React expense control App](https://leandergs.github.io/React-expense-control-app/)
-##### · [SpiderOss NFT ERC721](https://github.com/LeanderGS/SpiderOss_NFT_ERC721)
+##### · [DecoderMors.](https://leandrogavidia.github.io/decoder-mors/)
+##### · [React expense control App](https://leandrogavidia.github.io/React-expense-control-app/)
+##### · [SpiderOss NFT ERC721](https://github.com/leandrogavidia/SpiderOss_NFT_ERC721)
 
-##### · I have a secret --> [My last project in process](https://twitter.com/Leander_GS/status/1466605466620989442)
+##### · I have a secret --> [My last project in process](https://twitter.com/androgavidia/status/1466605466620989442)
 
 ---
 
