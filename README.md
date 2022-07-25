@@ -37,7 +37,7 @@
 
 ### // LET'S CONNECT!
 
-[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>](https://www.facebook.com/LeanderGS/) &nbsp; &nbsp;
-[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img>](https://www.instagram.com/leander_gs/) &nbsp; &nbsp;
-[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></img>](https://twitter.com/Leander_GS) &nbsp; &nbsp;
-[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img>](https://www.linkedin.com/in/leandro-gavidia/) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>](https://www.facebook.com/androgavidia/) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img>](https://www.instagram.com/androgavidia/) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" width="40"></img>](https://twitter.com/androgavidia) &nbsp; &nbsp;
+[<img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-icon.svg" width="40"></img>](https://www.linkedin.com/in/leandrogavidia/) &nbsp; &nbsp;
