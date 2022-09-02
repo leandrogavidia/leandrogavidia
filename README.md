@@ -16,8 +16,6 @@
 ##### · [React expense control App](https://leandrogavidia.github.io/React-expense-control-app/)
 ##### · [SpiderOss NFT ERC721](https://github.com/leandrogavidia/SpiderOss_NFT_ERC721)
 
-##### · I have a secret --> [My last project in process](https://twitter.com/androgavidia/status/1466605466620989442)
-
 ---
 
 ### // Tutorials 🤓.
