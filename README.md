@@ -1,39 +1,25 @@
-# <img width="80" src="https://media.giphy.com/media/VDXnwZ3OLqobnjqIQk/giphy.gif"></img> About me 
-### Front-end web developer | Web3 developer in process
-<code>"With great code comes great responsibility"</code>
+### // Wonderful projects 💻
+
+- [**D-Journal** - DApp to create your decentralized journal](https://leandrogavidia.github.io/d-journal)
+- [**DecoderMors.** - SPA to encoding and decoding basic Morse code.](https://leandrogavidia.github.io/decoder-mors/)
 
 ---
 
-##### ❤️ JavaScript and Solidity lover.
-##### 💜 Web design with Figma.
-##### 💛 Blockchain, cryptocurrency and web3 content creator.
+### // Tutorials 🤓
+
+- [Como programar tu NFT con Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
+- [Como crear tu NFT con OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
 
 ---
 
-### // Best projects 💻. 
+### // Some articles published ⌨
 
-##### · [DecoderMors.](https://leandrogavidia.github.io/decoder-mors/)
-##### · [React expense control App](https://leandrogavidia.github.io/React-expense-control-app/)
-##### · [SpiderOss NFT ERC721](https://github.com/leandrogavidia/SpiderOss_NFT_ERC721)
-
----
-
-### // Tutorials 🤓.
-
-##### · [Como crear tu NFT con OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
-##### · [Como programar tu NFT con Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
+- [¿Qué es un minero de Bitcoin y cuál es su importancia? - Platzi](https://platzi.com/blog/que-es-minero-bitcoin/)
+- [¿Qué son las llaves de encriptación de una crypto wallet? - Platzi](https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/)
+- [¿Qué significa el termino “cripto”? - Platzi](https://platzi.com/blog/que-es-cripto-definicion/)
+- [5 estrategias para aprender sobre crypto - Asilo Digital](https://www.asilodigital.com/estrategias-aprender-crypto/)
 
 ---
-
-### // Some articles published ⌨.
-
-##### · [¿Qué es un minero de Bitcoin y cuál es su importancia?](https://platzi.com/blog/que-es-minero-bitcoin/)
-##### · [¿Qué son las llaves de encriptación de una crypto wallet?](https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/)
-##### · [¿Qué significa el termino “cripto”?](https://platzi.com/blog/que-es-cripto-definicion/)
-
----
-
-### // LET'S CONNECT!
 
 [<img src="https://www.vectorlogo.zone/logos/facebook/facebook-icon.svg" width="40"></img>](https://www.facebook.com/androgavidia/) &nbsp; &nbsp;
 [<img src="https://www.vectorlogo.zone/logos/instagram/instagram-icon.svg" width="40"></img>](https://www.instagram.com/androgavidia/) &nbsp; &nbsp;
