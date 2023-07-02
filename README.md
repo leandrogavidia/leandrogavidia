@@ -1,6 +1,6 @@
 ### // Wonderful projects 💻
 
-- [**Solana address searcher** - Search for a Solana address and get its data](https://leandrogavidia.github.io/d-journal](https://solana-address-searcher.vercel.app/))
+- [**Solana address searcher** - Search for a Solana address and get its data](https://solana-address-searcher.vercel.app/)
 - [**D-Journal** - DApp to create your decentralized journal](https://leandrogavidia.github.io/d-journal)
 - [**DecoderMors.** - SPA to encoding and decoding basic Morse code.](https://leandrogavidia.github.io/decoder-mors/)
 
