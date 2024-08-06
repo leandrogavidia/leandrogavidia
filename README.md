@@ -1,8 +1,9 @@
 ### // Wonderful projects 💻
 
-- [**D-Journal** - DApp to create your decentralized journal](https://leandrogavidia.github.io/d-journal)
-- [**Solana address searcher** - Search for a Solana address and get its data](https://solana-address-searcher.vercel.app/)
-- [**DecoderMors.** - SPA to encoding and decoding basic Morse code.](https://leandrogavidia.github.io/decoder-mors/)
+1. [**Solana Action: Stake xStep** - Solana Action to stake xStep tokens with SOL](https://github.com/leandrogavidia/step-finance-staking-action)
+2. [**D-Journal** - DApp to create your decentralized journal](https://leandrogavidia.github.io/d-journal)
+3. [**Solana address searcher** - Search for a Solana address and get its data](https://solana-address-searcher.vercel.app/)
+4. [**DecoderMors.** - SPA to encoding and decoding basic Morse code.](https://leandrogavidia.github.io/decoder-mors/)
 
 ---
 
