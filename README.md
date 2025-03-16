@@ -1,4 +1,4 @@
-### // Some articles published ⌨
+## ⌨ Some articles published
 
 - [¿Qué es un minero de Bitcoin y cuál es su importancia? - Platzi](https://platzi.com/blog/que-es-minero-bitcoin/)
 - [¿Qué son las llaves de encriptación de una crypto wallet? - Platzi](https://platzi.com/blog/que-es-llave-publica-y-privada-wallet/)
