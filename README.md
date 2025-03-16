@@ -1,19 +1,3 @@
-### // Wonderful projects 💻
-
-1. [**Solana Action: Stake Step** - Solana Action to stake Step tokens with any Solana token](https://github.com/leandrogavidia/step-finance-staking-action)
-2. [**D-Journal** - DApp to create your decentralized journal](https://leandrogavidia.github.io/d-journal)
-3. [**Solana address searcher** - Search for a Solana address and get its data](https://solana-address-searcher.vercel.app/)
-4. [**DecoderMors.** - SPA to encoding and decoding basic Morse code.](https://leandrogavidia.github.io/decoder-mors/)
-
----
-
-### // Tutorials 🤓
-
-- [Como programar tu NFT con Solidity](https://drive.google.com/file/d/1Giq32nC6D5sBPy_iEAkbCRTUxGdy6dol/view?usp=sharing)
-- [Como crear tu NFT con OpenSea](https://drive.google.com/file/d/1zPKyNIyPgwdXmMPSERp_7Y73Ctw2hrvW/view?usp=sharing)
-
----
-
 ### // Some articles published ⌨
 
 - [¿Qué es un minero de Bitcoin y cuál es su importancia? - Platzi](https://platzi.com/blog/que-es-minero-bitcoin/)
